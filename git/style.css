@@ -1,5 +1,9 @@
 h1 {
-    background-color: darkblue;
+    background-color:bisque;
     color: white;
     text-align: center;
+}
+
+body {
+    background-color: aqua;
 }
